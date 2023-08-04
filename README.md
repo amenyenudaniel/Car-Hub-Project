@@ -1,13 +1,19 @@
-# Car Hub Application
+# Car Rent Application
 
 ![Alt text](<rent car web.png>)
 
 ## This Application was build using the following;
 
-### Next Js
+#### HTML
 
-### Tailwind Css
+#### CSS
 
-### Rapid API
+#### React JS
 
-### Typescript
+#### Next Js
+
+#### Tailwind Css
+
+#### Rapid API
+
+#### Typescript
